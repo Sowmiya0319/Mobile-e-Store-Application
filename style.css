@@ -1,0 +1,146 @@
+.title{
+    padding: 10px;
+    font-size: larger;
+}
+.nav{
+    background-color:turquoise;
+    
+  }
+  .nav li{
+    float:left;
+    list-style: none; 
+    margin: 13px 20px;
+}
+.nav ul{
+    overflow: auto;
+}
+.nav li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+}
+.nav input{
+    border: 2px solid black;
+   
+    padding: 3px 17px;
+    width: 129px;
+}
+section1{  
+    background-size: contain;
+    background-image: url("images/mobe.jpg");
+    border:7px solid #000000;  
+    padding:15px;  
+    margin:10px;
+    width:620px; 
+    height:300px 
+    
+    } 
+    section1{  
+        background-size: contain;
+      
+        border:7px solid black;  
+        padding:15px;  
+        margin:10px;
+        width:620px; 
+        height:300px 
+        
+        } 
+    section2{  
+        background-size: contain;
+        background-image: url("images/mob1.webp");
+        border:7px solid black;  
+        padding:15px;  
+        margin:10px;
+        width:620px; 
+        height:300px 
+        
+        } 
+    .contain{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5px;
+
+
+    }
+    section3{  
+        background-size: contain;
+        background-image: url("images/ZEG.PNG");
+        border:7px solid turquoise;  
+        padding:15px;  
+        margin:10px;
+        width:600px; 
+        height:300px 
+        } 
+
+        section4{  
+            background-size: contain;
+            background-image: url("images/ZEG2.PNG");
+            border:7px solid turquoise;  
+            padding:15px;  
+            margin:10px;
+            width:600px; 
+            height:300px 
+            } 
+            section6{  
+                background-size: contain;
+           
+                padding:15px;  
+                margin:10px;
+                width:600px; 
+                height:300px 
+                } 
+            footer {
+                background-color: turquoise;
+                color: #fff;
+                padding: 20px 0;
+             
+              }
+              
+              footer .container {
+                display: flex;
+         
+                justify-content: space-between;
+                align-items: center;
+                max-width: 1200px;
+                margin: 0 auto;
+                padding: 0 20px;
+              }
+              
+              footer p {
+                margin: 0;
+              }
+              
+              footer nav ul {
+                list-style: none;
+                margin: 0;
+                padding: 0;
+                display: flex;
+              }
+              
+              footer nav li {
+                margin-right: 20px;
+              }
+              
+              footer nav a {
+                color: #fff;
+                text-decoration: none;
+              }
+              
+          .title{
+            font-size: 100px;
+          background-color:gray;
+  
+             }    
+
+.award{
+    border-radius: 30px;
+}
+.news
+{
+    border-radius: 30px;
+}
+.login
+{
+    position:absolute;
+    right:80px;
+}
